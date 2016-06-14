@@ -11,16 +11,18 @@
     <i class="blogicon-hatenablog lg"></i>
     <span class="inner-text">Hatena</span>
     </a>
+<p>
+</p>
     <a class="niconico" href="http://com.nicovideo.jp/community/co2680396" target="_blank">
     <i class="blogicon-niconico lg"></i>
     <span class="inner-text">niconico</span>
     </a>
-</p>
-<p>
-    <a class="mail" href="mailto:rey_dvl@ahk.jp?subject=Åyñ‚çáÇπÅzrey s developer blog&amp;body=(ñ{ï∂)" target="_blank">
-    <i class="blogicon-mail lg"></i>
-    <span class="inner-text-mini">mail<br>ëóêM</span>
+    <a class="edit" href="https://github.com/rey1229" target="_blank">
+    <i class="blogicon-edit lg"></i>
+    <span class="inner-text">GitHub</span>
     </a>
+<p>
+</p>
     <a class="twitter" href="https://twitter.com/intent/follow?screen_name=rey_DVL" target="_blank">
     <i class="blogicon-twitter lg"></i>
     <span class="inner-text-mini">Twitter<br>(rey_DVL)</span>
@@ -30,11 +32,17 @@
     <span class="inner-text-mini">Twitter<br>(rey1229)</span>
     </a>
 </p>
-<!--
+<p>
     <a class="twitter" href="https://twitter.com/intent/tweet?url=http://rey1229.hatenablog.com/&text=rey%E2%80%99s%20developer%20blog%20%23Nowbrowsing&via=rey_DVL"  data-hashtags="ÅyÉnÉbÉVÉÖÉ^ÉOÅz" target="_blank">
     <i class="blogicon-twitter lg"></i>
-    <span class="inner-text-mini">Twitter<br>(tweet)</span>
+    <span class="inner-text">tweet</span>
     </a>
+    <a class="mail" href="mailto:rey_dvl@ahk.jp?subject=Åyñ‚çáÇπÅzrey s developer blog&amp;body=(ñ{ï∂)" target="_blank">
+    <i class="blogicon-mail lg"></i>
+    <span class="inner-text">mail</span>
+    </a>
+</p>
+<!--
 -->
 </div>
 </center>
@@ -123,15 +131,15 @@
 .content-inner-follow-buttons .blogicon-rss:hover {
     background: #8EDC7A;
 }
-.content-inner-follow-buttons .googleplus {
-    color: #db4a39;
+.content-inner-follow-buttons .edit {
+    color: #38393C;
     background: #ffffff;
 }
-.content-inner-follow-buttons .fa-google-plus {
-    background: #db4a39;
+.content-inner-follow-buttons .blogicon-edit {
+    background: #38393C;
     color: #ffffff;
 }
-.content-inner-follow-buttons .fa-google-plus:hover {
-    background: #e47365;
-} 
+.content-inner-follow-buttons .blogicon-edit:hover {
+    background: #5F6063;
+}
 </style>
