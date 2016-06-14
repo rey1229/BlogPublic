@@ -8,7 +8,7 @@ using System.Globalization;
 
 namespace AdCalToJPCal
 {
-    class Program
+    class AdCalToJPCal
     {
         static void Main(string[] args)
         {
