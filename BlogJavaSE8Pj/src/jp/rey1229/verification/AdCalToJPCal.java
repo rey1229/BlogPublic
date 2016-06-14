@@ -60,7 +60,6 @@ public class AdCalToJPCal {
 			} catch (Exception e) {
 				System.out.println("Exception：西暦" + iArr[0] + "年" + iArr[1] + "月" + iArr[2] + "日  （" + e.toString() + ")");
 			}
-
 		}
 
 	}
