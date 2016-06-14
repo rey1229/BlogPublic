@@ -29,6 +29,9 @@ public class AdCalToJPCal {
 		adList.add(new int[]{1868, 1, 1});
 		adList.add(new int[]{1868, 1, 1});
 		adList.add(new int[]{1868, 1, 25});
+		adList.add(new int[]{1868, 9, 7});
+		adList.add(new int[]{1868, 9, 8});
+		adList.add(new int[]{1868, 9, 9});
 		adList.add(new int[]{1868, 10, 22});
 		adList.add(new int[]{1868, 10, 23});
 		adList.add(new int[]{1872, 12, 31});
