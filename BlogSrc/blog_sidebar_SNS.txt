@@ -1,4 +1,4 @@
-<!-- ÉtÉHÉçÅ[É{É^Éì ãLéñè„ÅEãLéñâ∫óp5 -->
+<!-- „Éï„Ç©„É≠„Éº„Éú„Çø„É≥ Ë®ò‰∫ã‰∏ä„ÉªË®ò‰∫ã‰∏ãÁî®5 -->
 <!-- http://www.ituore.com/entry/sns-follow-button -->
 <center>
 <div class="content-inner-follow-buttons" >
@@ -33,11 +33,11 @@
     </a>
 </p>
 <p>
-    <a class="twitter" href="https://twitter.com/intent/tweet?url=http://rey1229.hatenablog.com/&text=rey%E2%80%99s%20developer%20blog%20%23Nowbrowsing&via=rey_DVL"  data-hashtags="ÅyÉnÉbÉVÉÖÉ^ÉOÅz" target="_blank">
+    <a class="twitter" href="https://twitter.com/intent/tweet?url=http://rey1229.hatenablog.com/&text=rey%E2%80%99s%20developer%20blog%20%23Nowbrowsing&via=rey_DVL"  data-hashtags="„Äê„Éè„ÉÉ„Ç∑„É•„Çø„Ç∞„Äë" target="_blank">
     <i class="blogicon-twitter lg"></i>
     <span class="inner-text">tweet</span>
     </a>
-    <a class="mail" href="mailto:rey_dvl@ahk.jp?subject=Åyñ‚çáÇπÅzrey s developer blog&amp;body=(ñ{ï∂)" target="_blank">
+    <a class="mail" href="mailto:rey_dvl@ahk.jp?subject=„ÄêÂïèÂêà„Åõ„Äërey s developer blog&amp;body=(Êú¨Êñá)" target="_blank">
     <i class="blogicon-mail lg"></i>
     <span class="inner-text">mail</span>
     </a>
@@ -47,7 +47,7 @@
 </div>
 </center>
 <style type="text/css">
-/*ãLéñè„ÅEãLéñâ∫ÉtÉHÉçÅ[É{É^Éì*/
+/*Ë®ò‰∫ã‰∏ä„ÉªË®ò‰∫ã‰∏ã„Éï„Ç©„É≠„Éº„Éú„Çø„É≥*/
 .content-inner-follow-buttons{
     text-align: center;
     margin-top:40px;
@@ -96,7 +96,7 @@
     color: #ffffff;
 }
 .content-inner-follow-buttons .blogicon-niconico:hover {
-    background: #F6FBF6;
+    background: #B5C9B7;
 }
 .content-inner-follow-buttons .twitter {
     color: #55acee;
