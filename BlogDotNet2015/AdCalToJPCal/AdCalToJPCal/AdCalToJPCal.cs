@@ -13,9 +13,13 @@ namespace AdCalToJPCal
         static void Main(string[] args)
         {
             ArrayList adList = new ArrayList();
+            //グレゴリウス暦導入前
             adList.Add(new int[] { 1868, 1, 1 });
             adList.Add(new int[] { 1868, 1, 1 });
             adList.Add(new int[] { 1868, 1, 25 });
+            adList.Add(new int[] { 1868, 9, 7 });
+            adList.Add(new int[] { 1868, 9, 8 });
+            adList.Add(new int[] { 1868, 9, 9 });
             adList.Add(new int[] { 1868, 10, 22 });
             adList.Add(new int[] { 1868, 10, 23 });
             adList.Add(new int[] { 1872, 12, 31 });
