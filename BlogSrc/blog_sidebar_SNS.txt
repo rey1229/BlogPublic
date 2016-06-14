@@ -1,0 +1,137 @@
+<!-- フォローボタン 記事上・記事下用5 -->
+<!-- http://www.ituore.com/entry/sns-follow-button -->
+<center>
+<div class="content-inner-follow-buttons" >
+<p>
+    <a class="feedly" href="http://feedly.com/i/subscription/feed/http://rey1229.hatenablog.com/feed" target="_blank">
+    <i class="blogicon-rss lg"></i>
+    <span class="inner-text">Feedly</span>
+    </a>
+    <a class="hatena" href="http://blog.hatena.ne.jp/rey1229/rey1229.hatenablog.com/subscribe" onclick="window.open('http://blog.hatena.ne.jp/rey1229/rey1229.hatenablog.com/subscribe', '', 'width=500,height=400'); return false;">
+    <i class="blogicon-hatenablog lg"></i>
+    <span class="inner-text">Hatena</span>
+    </a>
+    <a class="niconico" href="http://com.nicovideo.jp/community/co2680396" target="_blank">
+    <i class="blogicon-niconico lg"></i>
+    <span class="inner-text">niconico</span>
+    </a>
+</p>
+<p>
+    <a class="mail" href="mailto:rey_dvl@ahk.jp?subject=【問合せ】rey s developer blog&amp;body=(本文)" target="_blank">
+    <i class="blogicon-mail lg"></i>
+    <span class="inner-text-mini">mail<br>送信</span>
+    </a>
+    <a class="twitter" href="https://twitter.com/intent/follow?screen_name=rey_DVL" target="_blank">
+    <i class="blogicon-twitter lg"></i>
+    <span class="inner-text-mini">Twitter<br>(rey_DVL)</span>
+    </a>
+    <a class="twitter" href="https://twitter.com/intent/follow?screen_name=rey1229" target="_blank">
+    <i class="blogicon-twitter lg"></i>
+    <span class="inner-text-mini">Twitter<br>(rey1229)</span>
+    </a>
+</p>
+<!--
+    <a class="twitter" href="https://twitter.com/intent/tweet?url=http://rey1229.hatenablog.com/&text=rey%E2%80%99s%20developer%20blog%20%23Nowbrowsing&via=rey_DVL"  data-hashtags="【ハッシュタグ】" target="_blank">
+    <i class="blogicon-twitter lg"></i>
+    <span class="inner-text-mini">Twitter<br>(tweet)</span>
+    </a>
+-->
+</div>
+</center>
+<style type="text/css">
+/*記事上・記事下フォローボタン*/
+.content-inner-follow-buttons{
+    text-align: center;
+    margin-top:40px;
+    width:100%;
+}
+.content-inner-follow-buttons .follow-title {
+    width:100%;
+    color:#666;
+    margin-bottom:5px;
+}
+.content-inner-follow-buttons a {
+    display: inline-block;
+    width:60px;
+    text-align: center;
+    text-decoration: none;
+    margin:5px;
+}
+.content-inner-follow-buttons .inner-text {
+    font-size:12px;
+}
+.content-inner-follow-buttons .inner-text-mini {
+    font-size:10px;
+}
+.content-inner-follow-buttons .lg, .content-inner-follow-buttons .fa {
+    padding:15px;
+    border-radius:5px;
+    margin:2px auto;
+}
+.content-inner-follow-buttons .hatena {
+    color: #38393C;
+    background: #ffffff;
+}
+.content-inner-follow-buttons .blogicon-hatenablog {
+    background: #38393C;
+    color: #ffffff;
+}
+.content-inner-follow-buttons .blogicon-hatenablog:hover {
+    background: #5F6063;
+}
+.content-inner-follow-buttons .niconico {
+    color: #708090;
+    background: #ffffff;
+}
+.content-inner-follow-buttons .blogicon-niconico {
+    background: #708090;
+    color: #ffffff;
+}
+.content-inner-follow-buttons .blogicon-niconico:hover {
+    background: #F6FBF6;
+}
+.content-inner-follow-buttons .twitter {
+    color: #55acee;
+    background: #ffffff;
+}
+.content-inner-follow-buttons .blogicon-twitter {
+    background: #55acee;
+    color: #ffffff;
+}
+.content-inner-follow-buttons .blogicon-twitter:hover {
+    background: #89C7F7;
+}
+.content-inner-follow-buttons .mail {
+    color: #3f729b;
+    background: #ffffff;
+}
+.content-inner-follow-buttons .blogicon-mail {
+    background: #3f729b;
+    color: #ffffff;
+}
+.content-inner-follow-buttons .blogicon-mail:hover {
+    background: #7AA5C7;
+}
+.content-inner-follow-buttons .feedly {
+    color: #6cc655;
+    background: #ffffff;
+}
+.content-inner-follow-buttons .blogicon-rss {
+    background: #6cc655;
+    color: #ffffff;
+}
+.content-inner-follow-buttons .blogicon-rss:hover {
+    background: #8EDC7A;
+}
+.content-inner-follow-buttons .googleplus {
+    color: #db4a39;
+    background: #ffffff;
+}
+.content-inner-follow-buttons .fa-google-plus {
+    background: #db4a39;
+    color: #ffffff;
+}
+.content-inner-follow-buttons .fa-google-plus:hover {
+    background: #e47365;
+} 
+</style>
