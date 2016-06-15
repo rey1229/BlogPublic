@@ -6,10 +6,23 @@ using System.Threading.Tasks;
 using System.Collections;
 using System.Globalization;
 
+/// <summary>
+/// Copyright (C) 2016- @rey1229/@rey_DVL All Rights Reserved.
+/// 
+/// rey’s developer blog
+/// http://rey1229.hatenablog.com/
+/// </summary>
 namespace AdCalToJPCal
 {
+    /// <summary>
+    /// 西暦から和暦変換テスト
+    /// </summary>
     class AdCalToJPCal
     {
+        /// <summary>
+        /// 西暦から和暦変換テスト
+        /// </summary>
+        /// <param name="args">コマンドライン引数</param>
         static void Main(string[] args)
         {
             ArrayList adList = new ArrayList();
@@ -53,6 +66,8 @@ namespace AdCalToJPCal
                     Console.WriteLine("Exception：西暦" + iArr[0] + "年" + iArr[1] + "月" + iArr[2] + "日");
                 }
             }
+
+            Console.WriteLine("何かキーを押してください。");
             Console.ReadKey();
         }
     }
