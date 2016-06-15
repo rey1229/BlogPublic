@@ -1,0 +1,32 @@
+■■■■■■■■■■■■■■■■■■■■■■■■■
+■package-info.java
+■■■■■■■■■■■■■■■■■■■■■■■■■
+/**
+ * Copyright (C) 2016- @rey1229/@rey_DVL All Rights Reserved.
+ *
+ * rey’s developer blog
+ * http://rey1229.hatenablog.com/
+ *
+ * テストパッケージ
+ */
+
+
+■■■■■■■■■■■■■■■■■■■■■■■■■
+■*.java
+■■■■■■■■■■■■■■■■■■■■■■■■■
+/**
+ * Copyright (C) 2016- @rey1229/@rey_DVL All Rights Reserved.
+ *
+ * rey’s developer blog
+ * http://rey1229.hatenablog.com/
+ */
+
+■■■■■■■■■■■■■■■■■■■■■■■■■
+■*.cs
+■■■■■■■■■■■■■■■■■■■■■■■■■
+/// <summary>
+/// Copyright (C) 2016- @rey1229/@rey_DVL All Rights Reserved.
+///
+/// rey’s developer blog
+/// http://rey1229.hatenablog.com/
+/// </summary>
